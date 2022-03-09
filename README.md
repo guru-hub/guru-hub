@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+Hello, I'm Guru Alampalli👋
+I'm a Finance Professional, Data Scientist, Quantitative Researcher and Full-Stack Blockchain Developer
+
 <!--
-**guru-hub/guru-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
