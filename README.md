@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hello, I'm Guru Alampalli👋
-I'm a Finance Professional, Data Scientist, Quantitative Researcher and Full-Stack Blockchain Developer
+I'm a Fintech  Professional, Data Engineering Lead, Quantitative Researcher and Full-Stack Blockchain Developer
 
 <!--
 
